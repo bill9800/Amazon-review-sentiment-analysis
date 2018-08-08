@@ -10,20 +10,20 @@
 
 **Performance:**
 
-![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/Performance.png)
+![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/Performance.png)
 
 **Training time:**
 
-![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/training_time.png)
+![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/training_time.png)
 
 **ROC:**
 
-![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/ROC.png)
+![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/ROC.png)
 
 ## Word counting vs. TF-IDF
 
-![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/count_vs_tfidf.png)
+![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/count_vs_tfidf.png)
 
-![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/count_vs_tfidf_imp.png)
+![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/count_vs_tfidf_imp.png)
 
 
