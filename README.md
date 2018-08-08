@@ -26,4 +26,14 @@
 
 <img src="https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/count_vs_tfidf_imp.png" width="600">
 
+## Summary
 
+1. High frequency words are not necessarily important
+
+2. Tree base model is likely to overfitting
+
+3. For sentiment analysis, logistic regression is a good model to try first. (fast and high accuracy)
+
+4. Good feature transformation can have a better prediction. (Tfidf > wordCount)
+
+5. Further improvement? Maybe try Sequence model
