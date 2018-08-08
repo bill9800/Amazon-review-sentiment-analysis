@@ -11,6 +11,7 @@
 **Performance:**
 
 <img src="https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/Performance.png" width="600">
+
 **Training time:**
 
 <img src="https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/training_time.png" width="600">
