@@ -10,8 +10,7 @@
 
 **Performance:**
 
-![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/Performance.png =250)
-
+<img src="https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/Performance.png" width="250">
 **Training time:**
 
 ![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/training_time.png)
