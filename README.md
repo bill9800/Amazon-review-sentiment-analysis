@@ -18,9 +18,15 @@ precision: 75.6%  recall: 77.0%  f1: 76.3%
 
 **Logistic Regression:**
 
-training accuracy: 93.2%  testing accuracy: 90.1%
+- training accuracy: 93.2%  
 
-precision: 91.8%  recall: 88.1%  f1: 89.9%
+- testing accuracy: 90.1%
+
+- precision: 91.8% 
+
+- recall: 88.1%  
+
+- f1: 89.9%
 
 **Neural Network:**
 
