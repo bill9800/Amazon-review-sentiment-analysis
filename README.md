@@ -10,7 +10,7 @@
 
 **Performance:**
 
-![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/Performance.png){:height="100px" width="400px"}
+![image](https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/Performance.png =250)
 
 **Training time:**
 
