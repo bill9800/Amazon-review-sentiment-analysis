@@ -8,7 +8,7 @@
 
 ## Evaluate the result
 
-**Performance:**
+### Performance:
 
 **Decision Tree:**
 
@@ -73,11 +73,11 @@
 
 <img src="https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/Performance.png" width="600">
 
-**Training time:**
+### Training time:
 
 <img src="https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/training_time.png" width="600">
 
-**ROC:**
+### ROC:
 
 <img src="https://github.com/bill9800/Amazon-review-sentiment-analysis/raw/master/ROC.png" width="600">
 
